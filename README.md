@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nandkishor Khobrekar</h1>
-<h3 align="center">AIML Engineer & Software Developer | Building GenAI & Agent-based Solutions 🚀</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00C7B7&height=200&section=header&text=Nandkishor%20Khobrekar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Engineer%20%7C%20GenAI%20%26%20Agent%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;GenAI+%26+Agent+Developer;Full+Stack+Developer;Turning+ideas+into+intelligent+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandan45-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180" alt="coding gif"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandan45-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/nandan45-coder?label=Followers&style=for-the-badge&color=00C7B7" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="status" />
+</p>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00C7B7&height=4" />
 
 ---
 
@@ -138,3 +145,5 @@
 <p align="center">
   <i>Thanks for stopping by — feel free to explore my repos and connect! ⭐</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0e75b6&height=120&section=footer" alt="footer banner" />
